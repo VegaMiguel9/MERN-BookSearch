@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4e46be6b4aadb10d29a233e8d652090",
+    "revision": "d7294dc2dbf09b26994c076f17c9e2d1",
     "url": "/Mern-BookSearch/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mern-BookSearch/static/css/2.80f479d8.chunk.css"
   },
   {
-    "revision": "8110056f4f4b23d2c5dc",
+    "revision": "3fede4261e9de7cc5d83",
     "url": "/Mern-BookSearch/static/css/main.a13d3d6a.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mern-BookSearch/static/js/2.e3cd4977.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8110056f4f4b23d2c5dc",
-    "url": "/Mern-BookSearch/static/js/main.0db61e39.chunk.js"
+    "revision": "3fede4261e9de7cc5d83",
+    "url": "/Mern-BookSearch/static/js/main.297fb91a.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Mern-BookSearch/static/js/main.0db61e39.chunk.js.LICENSE.txt"
+    "url": "/Mern-BookSearch/static/js/main.297fb91a.chunk.js.LICENSE.txt"
   },
   {
     "revision": "7f39a3134681e5863d80",
